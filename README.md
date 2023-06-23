@@ -1,7 +1,7 @@
 # Demo Unity + Vuforia 2023
 Este repositorio tiene la finalidad de demostrar el uso de Vuforia en el motor de videojuegos de Unity.
 
-##Errores conocidos
+## Errores conocidos
 Puede que sea necesario reinstalar algunos paquetes a traves del Package Manager, como lo es Text Mesh Pro.
 Igualmente reinstalar Vuforia.
 Se procura arreglar más adelante.
